@@ -1,0 +1,1 @@
+#REDIRECT [[Vogt–Koyanagi–Harada disease]]

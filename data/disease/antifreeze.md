@@ -1,0 +1,144 @@
+{{short description|Coolant additive which reduces the freezing point of water}}
+
+An '''antifreeze''' is an additive which lowers the freezing point of a water-based liquid.  An antifreeze mixture is used to achieve [[freezing-point depression]] for cold environments.  Common antifreezes also increase the boiling point of the liquid, allowing higher coolant temperature.<ref name=Ullmann>{{Ullmann|title=Antifreezes|first1=Sidney F.|last1=Bosen|first2=William A.|last2=Bowles|first3=Emory A.|last3=Ford|first4=Bruce D.|last4=Perlson|year=2000|doi=10.1002/14356007.a03_023}}</ref> However, all common antifreeze additives also have lower [[heat capacity|heat capacities]] than water, and do reduce water's ability to act as a [[coolant]] when added to it.<ref>{{cite web |url=https://www.dow.com/content/dam/dcc/documents/en-us/mark-prod-info/180/180-01613-01-dispelling-the-myths-of-heat-transfer-fluids-presentation.pdf?iframe=true |title=Dispelling the Myths of Heat Transfer Fluids Presentation |publisher=[[Dow Chemical Company]] |access-date=2021-06-04}}</ref>
+
+Because [[water]] has good properties as a coolant, water plus antifreeze is used in [[internal combustion engine]]s and other heat transfer applications, such as [[HVAC]] [[chiller]]s and [[solar water heater]]s. The purpose of antifreeze is to prevent a rigid enclosure from bursting due to expansion when [[ice|water freezes]]. Commercially, both the ''additive'' (pure concentrate) and the ''mixture'' (diluted solution) are called antifreeze, depending on the context. Careful selection of an antifreeze can enable a wide temperature range in which the mixture remains in the [[liquid phase]], which is critical to efficient [[heat transfer]] and the proper functioning of [[heat exchanger]]s. Most if not all commercial antifreeze formulations intended for use in heat transfer applications include anti-corrosion and anti-[[cavitation]] agents (that protect the hydraulic circuit from progressive wear).
+
+==Principles and history==
+Water was the original coolant for internal combustion engines. It is cheap, nontoxic, and has a high heat capacity. It however has only a 100&nbsp;Kelvin liquid range, and it expands upon freezing. To address these problems, alternative coolants with improved properties were developed.
+Freezing and boiling points are [[colligative properties]] of a solution, which depend on the concentration of dissolved substances. Salts lower the melting points of aqueous solutions. [[Salt (chemistry)|Salts]] are frequently used for [[de-icing]], but salt solutions are not used for cooling systems because they induce [[corrosion]] of metals. Low [[Molecular mass|molecular weight]] organic compounds tend to have melting points lower than water, which makes them suitable for use as antifreeze agents. Solutions of organic compounds, especially [[alcohol (chemistry)|alcohol]]s, in water are effective. Alcohols such as methanol, ethanol, [[ethylene glycol]], etc. have been the basis of all antifreezes since they were commercialized in the 1920s.<ref name=Ullmann/>
+
+==Use and occurrence==
+
+===Automotive and internal combustion engine use===
+[[File:Antifreeze in the radiator.jpg|thumb|300px|Fluorescent green-dyed antifreeze is visible in the radiator header tank when car radiator cap is removed]]
+
+Most automotive engines are [[Internal combustion engine cooling|"water"-cooled]] to remove [[waste heat]], though the "water" used is actually a mixture of water and antifreeze. The term '''engine coolant''' is widely used in the [[automotive]] industry, which covers its primary function of [[convection (heat transfer)|convective heat transfer]] for [[internal combustion engine]]s. When used in an automotive context, [[corrosion inhibitor]]s are added to help protect vehicles' [[radiator (engine cooling)|radiators]], which often contain a range of [[electrochemical]]ly incompatible metals ([[aluminum]], [[cast iron]], [[copper]], [[brass]], [[solder]], etc.). Water pump seal lubricant is also added.
+
+Antifreeze was developed to overcome the shortcomings of [[Water#Heat exchange|water as a heat transfer fluid]].
+
+On the other hand, if the engine coolant gets too hot, it might boil while inside the engine, causing [[Critical heat flux|voids]] (pockets of steam), leading to localized hot spots and the catastrophic failure of the engine. If plain water were to be used as an engine coolant in northern climates freezing would occur, causing significant internal engine damage. Also, plain water would increase the prevalence of [[galvanic corrosion]]. Proper engine coolant and a pressurized coolant system obviate these shortcomings of water. With proper antifreeze, a wide temperature range can be tolerated by the engine coolant, such as {{convert|-34|F|C}} to {{convert|+265|F|C}} for 50% (by volume) [[propylene glycol]] diluted with distilled water and a 15 [[Pounds per square inch|psi]] pressurized coolant system.
+
+Early engine coolant antifreeze was [[methanol]] (methyl alcohol). [[Ethylene glycol]] was developed because its higher boiling point was more compatible with heating systems.
+
+===Other industrial uses===
+The most common water-based antifreeze solutions used in [[electronics cooling]] are mixtures of water and either ethylene glycol (EGW) or propylene glycol (PGW). The use of ethylene glycol has a longer history, especially in the automotive industry. However, EGW solutions formulated for the automotive industry often have silicate based rust inhibitors that can coat and/or clog heat exchanger surfaces. Ethylene glycol is listed as a toxic chemical requiring care in handling and disposal.
+
+Ethylene glycol has desirable thermal properties, including a high boiling point, low freezing point, stability over a wide range of temperatures, and high specific heat and thermal conductivity. It also has a low viscosity and, therefore, reduced pumping requirements. Although EGW has more desirable physical properties than PGW, the latter coolant is used in applications where toxicity might be a concern. PGW is generally recognized as safe for use in food or food processing applications, and can also be used in enclosed spaces.
+
+Similar mixtures are commonly used in [[HVAC]] and industrial heating or cooling systems as a high-capacity [[heat transfer medium]]. Many formulations have corrosion inhibitors, and it is expected that these chemicals will be replenished (manually or under automatic control) to keep expensive piping and equipment from corroding.
+
+===Biological antifreezes===
+[[Antifreeze proteins]] refer to chemical compounds produced by certain [[animal]]s, [[plant]]s, and other organisms that prevent the formation of ice.  In this way, these compounds allow their host organism to operate at temperatures well below the freezing point of water.  Antifreeze proteins bind to small [[ice crystals]] to inhibit growth and [[crystallization|recrystallization]] of ice that would otherwise be fatal.<ref name="Madura2001">{{cite journal |first=David |last=Goodsell |name-list-style=vanc |title=Molecule of the Month: Antifreeze Proteins |url=http://www.rcsb.org/pdb/101/motm.do?momID=120 |date=December 2009 |doi=10.2210/rcsb_pdb/mom_2009_12 |journal=The Scripps Research Institute and the RCSB PDB |access-date=2019-08-12 |archive-date=2015-11-04 |archive-url=https://web.archive.org/web/20151104223136/http://www.rcsb.org/pdb/101/motm.do?momID=120 |url-status=dead}}</ref><ref name="Fletcher2001">{{cite journal |vauthors=Fletcher GL, Hew CL, Davies PL |title=Antifreeze proteins of teleost fishes |journal=Annual Review of Physiology |volume=63 |pages=359–90 |year=2001 |issue=1 |pmid=11181960 |doi=10.1146/annurev.physiol.63.1.359}}</ref>
+
+[[Cryoprotectant]]s are commonly used in [[cryobiology]] to prevent or inhibit freezing in sperm, blood, stem cells, plant seeds, etc.<ref name="pmid28428046">{{cite journal | vauthors = Elliott GD, Wang S, Fuller BJ | title = Cryoprotectants: A review of the actions and applications of cryoprotective solutes that modulate cell recovery from ultra-low temperatures | journal = [[Cryobiology (journal)|Cryobiology]] | volume = 76 | pages = 74–91 | date = 2017 | doi = 10.1016/j.cryobiol.2017.04.004 | pmid = 28428046| s2cid = 4176915 | url = https://discovery.ucl.ac.uk/id/eprint/1556251/ }}</ref><ref name="pmid33761937">{{cite journal | vauthors = Bojic S, Murray A, Bentley BL, Spindler R, Pawlik P, Cordeiro JL, Bauer R, de Magalhães JP | title = Winter is coming: the future of cryopreservation | journal = [[BMC Biology]] | volume = 19 | issue = 1 | pages = 56 | date = 2021 | doi = 10.1186/s12915-021-00976-8 | pmc = 7989039 | pmid = 33761937 | doi-access = free }}</ref> Ethylene glycol, propylene glycol, and glycerol (all used in automotive antifreeze) are commonly used as biological cryoprotectants.<ref name="pmid28428046" /><ref name="pmid33761937" />
+
+==Primary agents==
+
+===Ethylene glycol===
+{{Main|Ethylene glycol}}
+[[File:Ethylene_glycol.svg|thumb|100px|Ethylene glycol]]
+Most antifreeze is made by mixing distilled water with additives and a base product, usually MEG (mono ethylene glycol) or MPG (mono propylene glycol). [[Ethylene glycol]] solutions first became available in 1926 and were marketed as "permanent antifreeze" since the higher boiling points provided advantages for summertime use as well as during cold weather. They are used today for a variety of applications, including [[car|automobile]]s, but there are lower-toxicity alternatives made with [[propylene glycol]] available.
+
+When ethylene glycol is used in a system, it may become oxidized to five organic acids (formic, oxalic, glycolic, glyoxalic and acetic acid). Inhibited ethylene glycol antifreeze mixes are available, with additives that buffer the pH and reserve alkalinity of the solution to prevent oxidation of ethylene glycol and formation of these acids. [[Nitrite]]s, [[silicate]]s, [[borate]]s and [[azole]]s may also be used to prevent corrosive attack on metal.
+
+Ethylene glycol has a bitter, sweet taste and causes inebriation. The toxic effects of ingesting ethylene glycol occur because it is converted by the liver into 4 other chemicals that are much more toxic. The lethal dose of pure ethylene glycol is 1.4 ml/kg ({{convert|3|USoz|ml|sigfig=1}} is lethal to a {{convert|140|lb|kg|adj=on}} person) but is much less lethal if treated within an hour.<ref>PM Leth, M Gregersen. ''Ethylene glycol poisoning''. Forensic science international, 2005 - Elsevier</ref> (see [[Ethylene glycol poisoning]]).
+
+===Propylene glycol===
+[[File:Propylene glycol chemical structure.png|thumb|100px|Propylene glycol]]
+
+[[Propylene glycol]] is considerably less toxic than ethylene glycol and may be labeled as "non-toxic antifreeze". It is used as antifreeze where ethylene glycol would be inappropriate, such as in food-processing systems or in water pipes in homes where incidental ingestion may be possible. For example, the U.S. [[Food and Drug Administration|FDA]] allows [[Propylene glycol#Safety in humans|propylene glycol to be added]] to a large number of [[ultra-processed foods]], including [[ice cream]], [[frozen custard]], salad dressings, and [[baked good]]s, and it is commonly used as the main ingredient in the "[[construction of electronic cigarettes#E-cigarette liquid|e-liquid]]" used in [[electronic cigarettes]].
+Propylene glycol [[oxidation|oxidizes]] to [[lactic acid]].<ref>{{cite book |title=Evaluation of Certain Food Additives and Contaminants (Technical Report Series) |publisher=World Health Organization |isbn=92-4-120909-7 |page=105}}</ref>
+
+Besides cooling system corrosion, [[biological fouling]] also occurs. Once bacterial slime starts to grow, the corrosion rate of the system increases. Maintenance of systems using glycol solution includes regular monitoring of freeze protection, [[pH]], [[specific gravity]], inhibitor level, color, and biological contamination.
+
+Propylene glycol should be replaced when it turns a reddish color.  When an aqueous solution of propylene glycol in a cooling or heating system develops a reddish or black color, this indicates that iron in the system is corroding significantly. In the absence of inhibitors, propylene glycol can react with oxygen and metal ions, generating various compounds including organic acids (e.g., formic, oxalic, acetic). These acids accelerate the corrosion of metals in the system.<ref>Hartwick, D.; Hutchinson, D.; Langevin, M., "A multi-discipline approach to closed system treatment," Corrosion 2004; New Orleans, Louisiana; March 28 - April 1, 2004; NACE ([[NACE International|National Association of Corrosion Engineers]]) paper 04-322. See: [http://www.onepetro.org/mslib/servlet/onepetropreview?id=NACE-04322 Document preview.] {{Dead link|date=June 2021 |bot=InternetArchiveBot |fix-attempted=yes}}</ref><ref>Kenneth Soeder, Daniel Benson, and Dennis Tomsheck, [http://www.jamestowntech.com/documents/TP4ClosedSystemCleaning.pdf "An on-line cleaning procedure used to remove iron and microbiological fouling from a critical glycol-contaminated closed-loop cooling water system,"] {{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes}} 2007 Annual Convention and Exposition of the Association of Water Technologies; Colorado Springs, Colorado; November 7–10, 2007</ref><ref>Allan Browning and David Berry (September / October 2010) [http://www.afe.org/Publications/journal/SelectingGlycol_SeptOct2010.pdf "Selecting and maintaining glycol based heat transfer fluids,"] {{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes}} ''Facilities Engineering Journal'', pages 16-18.</ref><ref>Walter J. Rossiter, Jr., McClure Godette, Paul W. Brown and Kevin G. Galuk (1985) [http://fire.nist.gov/bfrlpubs/build85/PDF/b85010.pdf "An investigation of the degradation of aqueous ethylene glycol and propylene glycol solutions using ion chromatography,"] ''Solar Energy Materials'', vol. 11, pages 455-467.</ref>
+
+===Other antifreezes===
+[[Propylene glycol methyl ether]] is used as an antifreeze in diesel engines.  It is more volatile than glycol.<ref name=Ullmann/>
+
+Once used for automotive antifreeze, [[glycerol]] has the advantage of being non-toxic, withstands relatively high temperatures, and is noncorrosive.  It is not however used widely.<ref name=Ullmann/>
+Glycerol was historically used as an antifreeze for automotive applications before being replaced by [[ethylene glycol]].<ref>{{cite book |chapter-url=https://www.sae.org/publications/technical-papers/content/2007-01-4000/ |last1=Hudgens |first1=R. Douglas |last2=Hercamp |first2=Richard D. |last3=Francis |first3=Jaime |last4=Nyman |first4=Dan A. |last5=Bartoli |first5=Yolanda |title=SAE Technical Paper Series |year=2007 |doi=10.4271/2007-01-4000 |chapter=An Evaluation of Glycerin (Glycerol) as a Heavy Duty Engine Antifreeze/Coolant Base |volume=1 |access-date=2013-06-07}}</ref><ref>{{cite web |url=http://www.astmnewsroom.org/default.aspx?pageid=2115&year=2010&category=Standards%2FTechnical |title=Proposed ASTM Engine Coolant Standards Focus on Glycerin |access-date=2013-06-07 |archive-date=2012-11-20 |archive-url=https://web.archive.org/web/20121120220447/http://www.astmnewsroom.org/default.aspx?pageid=2115&year=2010&category=Standards%2FTechnical |url-status=dead}}</ref>  [[Volkswagen]] introduced ''G13'' (TL 774-G) antifreezes containing glycerol in 2008, marketed as better for the environment due to its low toxicity and reduced [[Greenhouse gas emissions|{{CO2}} emissions]].<ref name=g13>{{cite web |url=https://www.wolflubes.com/EN_EU/Blog/2016/What-you-need-to-know-about-G13-antifreeze-and-coolant.aspx |title=What you need to know about G13 antifreeze and coolant |website=Wolf Lubricants |access-date=2022-07-20 }}</ref>  However, since 2018, they have moved on to ''G12EVO'' (TL 774-L) which no longer contains glycerol.<ref>{{cite web|url=https://www.glysantin.de/en/zulassungslisten|title=Approval lists|website=Glysantin|access-date=2022-07-26}}</ref>
+
+Glycerol is mandated for use as an antifreeze in many sprinkler systems.{{citation needed|date=July 2022}}
+
+==Measuring the freeze point==
+
+Once antifreeze has been mixed with water and put into use, it periodically needs to be maintained. If engine coolant leaks, boils, or if the cooling system needs to be drained and refilled, the antifreeze's freeze protection will need to be considered. In other cases a vehicle may need to be operated in a colder environment, requiring more antifreeze and less water. Three methods are commonly employed to determine the freeze point of the solution by measuring the concentration:<ref name="asa">[http://www.asashop.org/autoinc/feb2001/mech.htm Engine Cooling Testing: Why use a refractometer?] {{webarchive |url=https://web.archive.org/web/20110725015630/http://www.asashop.org/autoinc/feb2001/mech.htm |date=July 25, 2011}} posted 2/7/2001 by Michael Reimer</ref>
+
+# [[Specific gravity]]—(using a [[hydrometer]] test strip or some sort of floating indicator),
+# [[Refractometer]]—which measures the [[refractive index]] of the antifreeze solution, and
+# Test strips—specialized, disposable indicators made for this purpose.
+
+Both specific gravity and refractive index are affected by temperature, although the former is affected much less catastrophically. Temperature compensation is nevertheless recommended for RI measurement.<ref name="asa" /> Propylene glycol solutions cannot be tested using specific gravity because of ambiguous results (40% and 100% solutions have the same specific gravity),<ref name="asa" /> although typical uses rarely exceed 60% concentration.
+
+The boiling point can be similarly determined by a concentration given from one of the three methods. Datasheets for glycol/water coolant mixtures are commonly available from chemical vendors.<ref>{{bulleted list|1=[https://corecheminc.com/wp-content/uploads/2020/06/Freeze-Point-Chart-GlycoChill-Ethylene-Glycol-Heat-Transfer-Fluid.pdf Ethylene GlycolHeat Transfer Fluid Freeze/Boiling Point Chart], CoreChem|2=[https://www.meglobal.biz/wp-content/uploads/2019/01/Monoethylene-Glycol-MEG-Technical-Product-Brochure-PDF.pdf Ethylene Glycol product guide], MEGlobal}}</ref>
+
+==Corrosion inhibitors==
+Most commercial antifreeze formulations include [[corrosion inhibitor|corrosion inhibiting]] compounds, and a colored [[dye]] (commonly a [[fluorescent]] green, red, orange, yellow, or blue) to aid in identification.<ref name="eetcorp1">[http://www.eetcorp.com/antifreeze/Coolants_matrix.pdf Coolants Matrix 2003_5.xls]. (PDF) . Retrieved on 2011-01-01. {{Webarchive|url=https://web.archive.org/web/20080416233112/http://www.eetcorp.com/antifreeze/Coolants_matrix.pdf |date=2008-04-16}}</ref> A 1:1 [[concentration|dilution]] with water is usually used, resulting in a freezing point of about {{convert|-34|F|C}}, depending on the formulation. In warmer or colder areas, weaker or stronger dilutions are used, respectively, but a range of 40%/60% to 60%/40% is frequently specified to ensure corrosion protection, and 70%/30% for maximum freeze prevention down to {{convert|-84|F|C}}.<ref name="Peak">[http://www.peakantifreeze.com/10ez_steps.shtml Peak Antifreeze chart] {{webarchive |url=https://web.archive.org/web/20101005215523/http://www.peakantifreeze.com/10ez_steps.shtml |date=October 5, 2010}}</ref>
+
+===Maintenance===
+In the absence of leaks, antifreeze chemicals such as ethylene glycol or propylene glycol may retain their basic properties indefinitely. By contrast, corrosion inhibitors are gradually used up, and must be replenished from time to time. Larger systems (such as [[HVAC]] systems) are often monitored by specialist firms which take responsibility for adding corrosion inhibitors and regulating coolant composition. For simplicity, most automotive manufacturers recommend periodic complete replacement of engine coolant, to simultaneously renew corrosion inhibitors and remove accumulated contaminants.
+
+===Traditional inhibitors===
+Traditionally, there were two major corrosion inhibitors used in vehicles: [[silicate]]s and [[phosphate]]s. American-made vehicles traditionally used both silicates and phosphates.<ref name="motor.com">{{cite web |url=https://www.motor.com/magazine-summary/coolant-confusion-its-not-easy-being-green-or-yellow-or-orange-or/ |title=Coolant Confusion: It's Not Easy Being Green ... or Yellow or Orange or ... |publisher=motor.com |access-date=2013-06-07}}</ref> European makes contain silicates and other inhibitors, but no phosphates.<ref name="motor.com"/> Japanese makes traditionally use phosphates and other inhibitors, but no silicates.<ref name="motor.com"/><ref name="Waynes Garage">{{cite web |url=http://www.waynesgarage.com/articles/coolant_confusion.htm |title=Coolant Confusion |url-status=dead |access-date=2013-06-07 |archive-url=https://web.archive.org/web/20130512110937/http://www.waynesgarage.com/articles/coolant_confusion.htm |archive-date=2013-05-12}}</ref>
+
+===Organic acid technology===
+Most modern cars are built with organic acid technology (OAT) antifreeze (e.g., DEX-COOL<ref>[http://www.havoline.com/products/na/antifreeze_01.html Products: North America: Anti Freeze/Coolants]. Havoline.com (2003-01-31). Retrieved on 2011-01-01.</ref>), or with a hybrid organic acid technology (HOAT) formulation (e.g., Zerex G-05),<ref>{{cite web |url=https://www.valvoline.com/en/g-05-antifreeze-coolant/2 |title=Zerex G-05® Antifreeze/Coolant |website=Valvoline}}</ref> both of which are claimed to have an extended service life of five years or {{convert|240,000|km|mi|abbr=on}}.
+
+DEX-COOL specifically has caused [[controversy]]. Litigation has linked it with intake manifold gasket failures in [[General Motors]]' (GM's) 3.1L and 3.4L engines, and with other failures in 3.8L and 4.3L engines. One of the anti-corrosion components presented as sodium or [[potassium 2-ethylhexanoate]] and [[ethylhexanoic acid]] is incompatible with [[nylon 6,6]] and [[silicone rubber]], and is a known [[plasticizer]]. [[Class action]] lawsuits were registered in several states of the US, and in Canada,<ref>{{cite web |url=http://www.branchmacmaster.com/storage/classactions/SETTLEMENT_AGREEMENT_signed_by_all_parties.PDF |title=Canadian Nationwide Class Action Settlement Agreement |access-date=2013-06-07 |archive-url=https://web.archive.org/web/20130512083634/http://www.branchmacmaster.com/storage/classactions/SETTLEMENT_AGREEMENT_signed_by_all_parties.PDF |archive-date=2013-05-12 |url-status=dead}}</ref> to address some of these claims. The first of these to reach a decision was in Missouri, where a settlement was announced early in December 2007.<ref>[http://www.gohtsn.com/article_860.shtml Tentative Settlement of GM DEX-COOL Class Action Suit]</ref> Late in March 2008, GM agreed to compensate complainants in the remaining 49 states.<ref>[http://www.dexcoolsettlement.com/ DEX-COOL Litigation Website]</ref> GM ([[Motors Liquidation Company]]) filed for bankruptcy in 2009, which tied up the outstanding claims until a court determines who gets paid.<ref>{{cite web |url=http://www.cleveland.com/business/index.ssf/2009/11/gm_wants_to_dump_liability_for.html |title=GM wants to dump liability for damaged engines in Dex-Cool cases |date=18 November 2009 |access-date=2013-06-07}}</ref>
+
+According to the DEX-COOL manufacturer, "mixing a 'green' [non-OAT] coolant with DEX-COOL reduces the batch's change interval to 2 years or 30,000 miles, but will otherwise cause no damage to the engine".<ref name="imcool">[http://www.imcool.com/articles/antifreeze-coolant/GMdocs/GMdocs.php Draft—DEX 2007, Part 3: Now It’s All Up To The Judges and Juries]. Imcool.com. Retrieved on 2011-01-01.</ref> DEX-COOL antifreeze uses two inhibitors: [[sebacate]] and 2-EHA ([[2-ethylhexanoic acid]]), the latter which works well with the [[hard water]] found in the United States, but is a [[plasticizer]] that can cause gaskets to leak.<ref name="motor.com"/>
+
+According to internal GM documents,<ref name="imcool"/> the ultimate culprit appears to be operating vehicles for long periods of time with low coolant levels. The low coolant is caused by pressure caps that fail in the open position. (The new caps and recovery bottles were introduced at the same time as DEX-COOL). This exposes hot engine components to air and vapors, causing corrosion and contamination of the coolant with iron oxide particles, which in turn can aggravate the pressure cap problem as contamination holds the caps open permanently.<ref name="imcool"/>
+
+Honda and Toyota's new extended life coolants use OAT with sebacate, but without the 2-EHA. Some added phosphates provide protection while the OAT builds up.<ref name="motor.com"/> Honda specifically excludes 2-EHA from its formulas.
+
+Typically, OAT antifreeze contains an orange dye to differentiate it from the conventional glycol-based coolants (green or yellow), though some OAT products may contain a red or mauve dye. Some of the newer OAT coolants claim to be compatible with ''all'' types of OAT and glycol-based coolants; these are typically green or yellow in color.<ref name="eetcorp1"/>
+
+===Hybrid organic acid technology===
+HOAT coolants typically mix an OAT with a traditional inhibitor, usually silicates.<ref name="gearsmagzaine">{{cite web |url=https://gearsmagazine.com/magazine/cool-it-what-you-need-to-know-about-your-vehicles-cooling-system/ |title=Gears Magazine - Cool It: What You Need to Know about Your Vehicle's Cooling System}}</ref>
+
+An example is [[Zerex]] G05, which is a low-silicate, phosphate free formula that includes the [[benzoate]] inhibitor.<ref name="motor.com"/>
+
+A HOAT coolant can have a life expectancy as high as 10 years / 180,000 miles.<ref name="gearsmagzaine" />
+
+====Phosphate hybrid organic acid technology====
+P-HOAT coolants mix phosphates with HOAT.<ref name="gearsmagzaine"/>  This technology is typically used in Asian makes and is often dyed red or blue.<ref name="gearsmagzaine"/>
+
+====Silicate hybrid organic acid technology====
+Si-OAT coolants mix silicates with HOAT.<ref name="gearsmagzaine"/>  This technology is typically used in European makes and is often dyed pink.<ref name="gearsmagzaine"/>
+
+==Additives==
+
+All automotive antifreeze formulations, including the newer organic acid (OAT antifreeze) formulations, are environmentally hazardous because of the blend of additives (around 5%), including lubricants, buffers, and corrosion inhibitors.<ref>[http://findarticles.com/p/articles/mi_6918/is_2_91/ai_n31038895/pg_2/ A safe and effective propylene glycol based capture liquid for fruit fly traps baited with synthetic lures – page 2|Florida Entomologist]. Findarticles.com. Retrieved on 2011-01-01.</ref> Because the additives in antifreeze are proprietary, the [[safety data sheet]]s (SDS) provided by the manufacturer list only those compounds which are considered to be significant safety hazards when used in accordance with the manufacturer's recommendations. Common additives include [[sodium silicate]], [[disodium phosphate]], [[sodium molybdate]], [[sodium borate]], [[denatonium benzoate]], and [[dextrin]] (hydroxyethyl starch).
+
+[[Fluorescein|Disodium fluorescein]] dye is added to conventional ethylene glycol formulas to visually distinguish leaked amounts from other vehicle fluids, and as a marker of type to distinguish it from incompatible types.<ref name="eetcorp1"/>  This dye fluoresces bright green when illuminated by blue or [[ultraviolet|UV light]] from daylight or testing lamps.
+
+Automotive antifreeze has a characteristic odor due to the additive [[tolyltriazole]], a corrosion inhibitor. The unpleasant odor in industrial-use tolyltriazole comes from impurities in the product that are formed from the [[toluidine]] isomers (ortho-, meta-, and para-toluidine) and meta-diamino toluene which are side-products in the manufacture of tolyltriazole.<ref>VOGT, P. F. 2005. Tolyltriazole-myth and misconceptions. The Analyst 12: 1–3.</ref> These side-products are highly reactive and produce volatile aromatic amines which are responsible for the unpleasant odor.<ref>A safe and effective propylene glycol based capture liquid for fruit fly traps baited with synthetic lures; Florida Entomologist, June, 2008 by Donald B. Thomas</ref>
+
+==See also==
+* [[Aircraft deicing fluid]]
+* [[Antifreeze protein]]
+* [[Air cooling]]
+* [[Cryoprotectant]]
+* [[Heater core]]
+* [[Ice melt#Surface treatments|Ice melt]]
+* [[Internal combustion engine cooling]]
+* [[Radiator]]
+* [[Water cooling]]
+* [[Waterless coolant]]
+* [[Windshield washer fluid]]
+
+==References==
+{{Reflist}}
+
+{{Motor fuel}}
+{{Internal combustion engine}}
+{{Authority control}}
+{{HVAC}}
+
+[[Category:Automotive chemicals]]
+[[Category:Automotive engine technologies]]
+[[Category:Coolants]]
+[[Category:Household chemicals]]

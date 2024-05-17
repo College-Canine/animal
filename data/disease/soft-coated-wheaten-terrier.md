@@ -1,0 +1,1 @@
+#REDIRECT [[Soft-coated Wheaten Terrier]] {{R from other capitalisation}}

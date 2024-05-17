@@ -1,0 +1,47 @@
+{{Short description|Species of bacterium}}
+{{Speciesbox
+| image = 
+| image_alt = 
+| image_caption = 
+| status = 
+| status_system = 
+| status_ref = 
+| genus = Ehrlichia
+| species = canis
+| authority = (Donatien and Lestoquard 1935) Moshkovski 1945<ref>{{cite journal |title=Ehrlichia |journal=[[LPSN]] |url=https://lpsn.dsmz.de/genus/ehrlichia}}</ref><ref name= ecanis>{{EOL|976552|Ehrlichia Canis}}</ref>
+| synonyms = 
+| synonyms_ref = 
+}}
+
+'''''Ehrlichia canis''''' is an [[Obligate parasite|obligate]] [[intracellular]] [[Bacteria|bacterium]] that acts as the [[causative agent]] of [[Ehrlichiosis (canine)|ehrlichiosis]], a disease most commonly affecting [[canis|canine]] species. This pathogen is present throughout the United States (but is most prominent in the [[Southern United States|South]]),<ref name=ecanis2>{{cite journal |doi=10.1016/j.vetpar.2008.10.093 |title=Prevalence and geographic distribution of Dirofilaria immitis, Borrelia burgdorferi, Ehrlichia canis, and Anaplasma phagocytophilum in dogs in the United States: Results of a national clinic-based serologic survey |year=2009 |last1=Bowman |first1=Dwight |last2=Little |first2=Susan E. |last3=Lorentzen |first3=Leif |last4=Shields |first4=James |last5=Sullivan |first5=Michael P. |last6=Carlin |first6=Ellen P. |journal=Veterinary Parasitology |volume=160 |pages=138–48 |pmid=19150176 |issue=1–2}}</ref> South America, Asia, Africa and recently in the [[Kimberley (Western Australia)|Kimberley]] region of Australia.<ref name= ecanis3>{{cite web |last=Jeanine |first=Peters |title=Canine Ehrlichiosis |url=https://www.addl.purdue.edu/newsletters/2000/winter/ce.shtml |work=ADDL Diagnostic Forum Newsletter |date=Winter 2000}}</ref><ref>{{cite web |title=Kimberley Dog Controlled Area – dog movement conditions |publisher=Government of Western Australia, Department of Primary Industries and Regional Development, Agriculture and Food division |url=https://www.agric.wa.gov.au/biosecurity/kimberley-dog-controlled-area---dog-movement-conditions |date=June 4, 2020 |accessdate=June 4, 2020}}</ref> First defined in 1935, ''E. canis'' emerged in the United States in 1963 and its presence has since been found in all 48 [[contiguous United States]].<ref name= ecanis2/><ref name= ecanis4>{{cite journal |doi=10.1016/j.cvsm.2010.07.004 |title=Ehrlichiosis and Anaplasmosis in Dogs and Cats |year=2010 |last1=Little |first1=Susan E. |journal=Veterinary Clinics of North America: Small Animal Practice |volume=40 |issue=6 |pages=1121–40 |pmid=20933140}}</ref>  Reported primarily in dogs, ''E. canis'' has also been documented in [[Felinae|felines]] and humans, where it is transferred most commonly via ''[[Rhipicephalus sanguineus]]'', the brown dog tick.<ref name= ecanis2/>
+
+== Transmission cycle ==
+
+The brown dog tick, ''R. sanguineus'', acts as the [[disease vector|primary vector]] of ''E. canis'', transferring the pathogen between hosts during blood meals. Dogs, both domestic and wild, act as [[reservoir host]]s for this [[pathogen]] and are the primary hosts of brown dog ticks. Brown dog ticks become carriers of the pathogen when they take a blood meal from a rickessemic dog. Stored in the [[midgut]] and [[salivary gland]]s of an infected tick, ''E. canis'' is transferred by the saliva of ticks carrying the pathogen to hosts during blood meals.<ref name= ecanis2/> If infected while in the larval stage, the tick retains the pathogen through the next two life stages and can infect hosts during blood meals in both the [[Nymph (biology)|nymph]]al and adult stages in [[transstadial transmission]].<ref name= ecanis3/>
+
+Because the vector of ''E. canis'' uses canine species as a [[primary host]], this bacterium is most commonly associated with dogs, but multiple human cases have been reported.<ref name=ecanis7>{{cite journal |doi=10.1196/annals.1374.016 |title=Human Infection with Ehrlichia Canis Accompanied by Clinical Signs in Venezuela |year=2006 |last1=Perez |first1=M. |last2=Bodor |first2=M. |last3=Zhang |first3=C. |last4=Xiong |first4=Q. |last5=Rikihisa |first5=Y. |journal=Annals of the New York Academy of Sciences |volume=1078 |pages=110–7 |pmid=17114689|s2cid=28743204 }}</ref>  Additionally, some cats have been found to have antibodies to ''E. canis'' suggesting that it can occasionally infect cats, as well.<ref name=ecanis8>{{cite web |last=Morgan |first=Rhea |title=Ehrlichiosis in Cats |url=http://www.petplace.com/cats/ehrlichiosis-in-cats/page1.aspx |accessdate=2013-10-31}}</ref><ref>{{cite journal|pmc=4166293|year=2014|last1=Braga |first1=I. A. |last2=Dos Santos|first2=L. G.|last3=De Souza Ramos|first3=D. G.|last4=Melo|first4=A. L.|last5=Da Cruz Mestre|first5=G. L.|last6=De Aguiar|first6=D. M.|title=Detection of Ehrlichia canis in domestic cats in the central-western region of Brazil|journal=Brazilian Journal of Microbiology|volume=45|issue=2|pages=641–645|pmid=25242952|doi=10.1590/s1517-83822014000200036}}</ref>
+
+== Pathogenesis ==
+''E. canis'' is a small, [[coccus]] bacterium with a single [[circular chromosome]]. Minute in size, ''E. canis'' is smaller than the other species in the genus ''Ehrlichia''.<ref name=ecanis8/><ref name=ecanis5>{{cite journal |doi=10.1128/JB.01837-05 |title=The Genome of the Obligately Intracellular Bacterium Ehrlichia canis Reveals Themes of Complex Membrane Structure and Immune Evasion Strategies |year=2006 |last1=Mavromatis |first1=K. |last2=Doyle |first2=C. K. |last3=Lykidis |first3=A. |last4=Ivanova |first4=N. |last5=Francino |first5=M. P. |last6=Chain |first6=P. |last7=Shin |first7=M. |last8=Malfatti |first8=S. |last9=Larimer |first9=F. |last10=Copeland |first10=A. |last11=Detter |first11=J. C. |last12=Land |first12=M. |last13=Richardson |first13=P. M. |last14=Yu |first14=X. J. |last15=Walker |first15=D. H. |last16=McBride |first16=J. W. |last17=Kyrpides |first17=N. C. |journal=Journal of Bacteriology |volume=188 |issue=11 |pages=4015–23 |pmid=16707693 |pmc=1482910}}</ref>
+
+The [[cell wall]]s of this organism lack [[peptidoglycan]]s and [[lipopolysaccharide]]s typically present in at least small amounts in most other [[Gram-negative bacteria]], which is believed to contribute to its ability to resist the [[immune response]] of the host. The lack of these two materials reduces the rigidity of the cell wall, allowing the cell wall's exterior to be dynamic, in turn facilitating the ''E. canis'' cells’ evasion of [[antibodies]] in its host organism's body.<ref name= ecanis5/>
+
+The cells of ''E. canis'' lack complex internal structures, which allow the synthesis of sugars and it, in turn, uses [[amino acid]]s as its source of energy.<ref name= ecanis5/>
+
+Upon introduction, ''E. canis'' penetrates the [[monocyte]]s and [[macrophage]]s of hosts. Infection may leave a host asymptomatic for months or severe clinical signs may manifest as ehrlichiosis develops.<ref name=ecanis10/>
+
+== Diagnosis and treatment ==
+Animals infected with ''E. canis'' may experience a combination of signs, including fever, lethargy, weight loss, [[lymphadenopathy]], [[edema]] of the appendages, [[Rhinorrhea|discharge from nose]] and eyes, and seizures.<ref name= ecanis3/><ref name= ecanis4/><ref name=ecanis10>{{cite web |title=Erlichia Canis in Dogs |url=http://www.vetmed.wisc.edu/pbs/zoonoses/Ehrlichia/ehrcanisdogs.html |url-status=dead |archive-url=https://web.archive.org/web/20130909053722/http://www.vetmed.wisc.edu/pbs/zoonoses/Ehrlichia/ehrcanisdogs.html |archive-date=9 September 2013 |accessdate=2013-10-25}}</ref> A low [[Hematocrit|packed cell volume]] in the blood is a common indicator of the presence of ''E. canis'' and a blood smear can be done to determine if morulae are present in leukocytes to definitively diagnose the infection. Because this process is often long and tedious, the presence of antibodies to ''E. canis'' in blood can be used to effectively diagnose a patient. These antibodies typically appear within seven days after infection.<ref name=ecanis3/><ref name=ecanis4/>
+
+''E. canis'' is commonly treated via [[chemoprophylaxis]] with [[doxycycline]], a prescription drug used in the treatment of bacterial infections. If caught before the clinical stage, ''E. canis'' is almost completely curable, but prolonged presence of the bacteria leads to hemorrhaging, which typically results in the death of the patient.<ref name=ecanis2/>
+
+Although no [[vaccine]] is known to be on the market for ehrlichiosis caused by ''E. canis'', extensive research on the use of an attenuated strain of ''E. canis'' as an aid in the prevention of ''E. canis'' infection is being performed. Preliminary testing has proved that this method may be effective, as [[clinical sign]]s and the presence of the ''E. canis'' bacteria were reduced in [[Beagle]] test subjects, but further investigations are necessary before a vaccine can be marketed.<ref name=ecanis11>{{cite journal |doi=10.1016/j.vaccine.2012.10.003 |title=Evaluation of an attenuated strain of Ehrlichia canis as a vaccine for canine monocytic ehrlichiosis |year=2012 |last1=Rudoler |first1=Nir |last2=Baneth |first2=Gad |last3=Eyal |first3=Osnat |last4=Van Straten |first4=Michael |last5=Harrus |first5=Shimon |journal=Vaccine |volume=31 |pages=226–33 |pmid=23072894 |issue=1}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Taxonbar|from=Q5348627}}
+
+[[Category:Rickettsiales]]
+[[Category:Dog diseases]]
+[[Category:Bacteria described in 1935]]

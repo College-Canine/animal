@@ -1,0 +1,87 @@
+{{Short description|Mammalian protein involved in blood clotting}}
+{{Lowercase title}}
+{{Infobox_gene}}
+'''Von Willebrand factor''' ('''VWF''') ({{IPA-de|fɔn ˈvɪləbʁant|lang}}) is a [[blood]] [[glycoprotein]] that promotes [[hemostasis]], specifically, [[platelet]] [[Platelet#Adhesion|adhesion]]. It is deficient and/or defective in [[von Willebrand disease]] and is involved in many other diseases, including [[thrombotic thrombocytopenic purpura]], [[Heyde's syndrome]], and possibly [[hemolytic–uremic syndrome]].<ref name=Sadler>{{cite journal | vauthors = Sadler JE | title = Biochemistry and genetics of von Willebrand factor | journal = Annual Review of Biochemistry | volume = 67 | pages = 395–424 | year = 1998 | pmid = 9759493 | doi = 10.1146/annurev.biochem.67.1.395 | doi-access = free | author-link1 = J. Evan Sadler }}</ref> Increased plasma levels in many cardiovascular, neoplastic, metabolic (e.g. diabetes), and connective tissue diseases are presumed to arise from adverse changes to the [[endothelium]], and may predict an increased risk of [[thrombosis]].<ref>{{cite book | vauthors = Shahidi M | title = Thrombosis and Embolism: From Research to Clinical Practice | chapter = Thrombosis and von Willebrand Factor | series = Advances in Experimental Medicine and Biology | volume = 906 | pages = 285–306 | date = 2017 | pmid = 27628010 | doi = 10.1007/5584_2016_122 | isbn = 978-3-319-22107-6 }}</ref>
+
+== Biochemistry ==
+
+=== Synthesis ===
+VWF is a large multimeric [[glycoprotein]] present in [[blood plasma]] and produced constitutively as ultra-large VWF in [[endothelium]] (in the [[Weibel–Palade body|Weibel–Palade bodies]]), [[megakaryocyte]]s (α-granules of [[platelet]]s), and subendothelial [[connective tissue]].<ref name=Sadler/>
+
+=== Structure ===
+The basic VWF [[monomer]] is a 2050-[[amino acid]] protein. Every monomer contains a number of specific domains with a specific function; elements of note are:<ref name=Sadler/>
+* the D'/D3 domain, which binds to [[factor VIII]] ([[von Willebrand factor type D domain]]).<ref name="pmid22490677"/>
+* the A1 domain, which binds to:
+** [[platelet]] GPIb-receptor
+** [[heparin]]
+** possibly [[collagen]]
+* the A2 domain, which must partially unfold to expose the buried cleavage site for the specific [[ADAMTS13]] protease that inactivates VWF by making much smaller multimers.  The partial unfolding is affected by shear flow in the blood, by calcium binding, and by the lump of a sequence-adjacent "vicinal disulfide" at the A2-domain C-terminus.<ref name=Jakobi>{{cite journal | vauthors = Jakobi AJ, Mashaghi A, Tans SJ, Huizinga EG | title = Calcium modulates force sensing by the von Willebrand factor A2 domain | journal = Nature Communications | volume = 2 | issue =  | pages = 385 | date = July 2011 | pmid = 21750539 | pmc = 3144584 | doi = 10.1038/ncomms1385 | bibcode = 2011NatCo...2..385J }}</ref><ref>{{cite journal | vauthors = Luken BM, Winn LY, Emsley J, Lane DA, Crawley JT | title = The importance of vicinal cysteines, C1669 and C1670, for von Willebrand factor A2 domain function | journal = Blood | volume = 115 | issue = 23 | pages = 4910–4913 | date = June 2010 | pmid = 20354169 | pmc = 2890177 | doi = 10.1182/blood-2009-12-257949 }}</ref>
+* the A3 domain, which binds to collagen ([[von Willebrand factor type A domain]])
+* the C4 domain, in which the [[RGD motif]] binds to platelet [[Integrin αIIbβ3|integrin α<sub>IIb</sub>β<sub>3</sub>]] when this is activated ([[von Willebrand factor type C domain]])
+* the other C domains, which may interact in ER dimers: the larger protein show six beads of (C and C-like) domains under [[cryo-EM]].<ref name="pmid22490677">{{cite journal | vauthors = Zhou YF, Eng ET, Zhu J, Lu C, Walz T, Springer TA | title = Sequence and structure relationships within von Willebrand factor | journal = Blood | volume = 120 | issue = 2 | pages = 449–458 | date = July 2012 | pmid = 22490677 | pmc = 3398765 | doi = 10.1182/blood-2012-01-405134 }}</ref>
+* the "[[cystine knot]]" domain (at the C-terminal end of the protein), which VWF shares with [[platelet-derived growth factor]] (PDGF), [[transforming growth factor]]-β (TGFβ) and β-[[human chorionic gonadotropin]] (βHCG, of [[pregnancy test]] fame). ([[von Willebrand factor type C domain]])
+
+Monomers are subsequently [[glycosylation|N-glycosylated]], arranged into dimers in the [[endoplasmic reticulum]] and into multimers in the [[Golgi apparatus]] by crosslinking of [[cysteine]] residues via [[disulfide bond]]s. With respect to the glycosylation, VWF is one of only a few proteins that carry [[ABO blood group system]] antigens.<ref name=Sadler/> VWFs coming out of the Golgi are packaged into storage organelles, [[Weibel–Palade body|Weibel-Palade bodies]] (WPBs) in endothelial cells and [[Platelet alpha-granule|α-granules]] in platelets.<ref name=pmid25712991>{{cite journal | vauthors = Lenting PJ, Christophe OD, Denis CV | title = von Willebrand factor biosynthesis, secretion, and clearance: connecting the far ends | journal = Blood | volume = 125 | issue = 13 | pages = 2019–2028 | date = March 2015 | pmid = 25712991 | doi = 10.1182/blood-2014-06-528406 | s2cid = 27785232 | doi-access = free }}</ref>
+
+Multimers of VWF can be extremely large, &gt;20,000 [[kDa]], and consist of over 80 subunits of 250 kDa each. Only the large multimers are functional. Some cleavage products that result from VWF production are also secreted but probably serve no function.<ref name=Sadler/>
+[[Image:VWF.svg|none|framed|VWF monomer and multimers.]]
+
+=== Function ===
+[[Image:VWF-GP1ba.png|thumb|300px|right|The interaction of VWF and GP1b alpha. The GP1b receptor on the surface of platelets allows the platelet to bind to VWF, which is exposed upon damage to vasculature. The VWF A1 domain (yellow) interacts with the extracellular domain of GP1ba (blue).]]
+Von Willebrand Factor's primary function is binding to other proteins, in particular [[factor VIII]], and it is important in [[Platelet#Adhesion and aggregation|platelet adhesion]] to wound sites.<ref name=Sadler/> It is not an [[enzyme]] and, thus, has no catalytic activity.
+
+VWF binds to a number of cells and molecules. The most important ones are:<ref name=Sadler/>
+* Factor VIII is bound to VWF while inactive in circulation; factor VIII degrades rapidly when not bound to VWF. Factor VIII is released from VWF by the action of [[thrombin]]. In the absence of VWF, factor VIII has a half-life of 1–2 hours; when carried by intact VWF, factor VIII has a half-life of 8–12 hours.
+* VWF binds to collagen, e.g., when collagen is exposed beneath [[endothelium|endothelial cells]] due to damage occurring to the blood vessel. Endothelium also releases VWF which forms additional links between the platelets' glycoprotein Ib/IX/V and the collagen fibrils
+* VWF binds to platelet [[gpIb]] when it forms a complex with [[gpIX]] and [[factor V|gpV]]; this binding occurs under all circumstances, but is most efficient under high [[shear stress]] (i.e., rapid blood flow in narrow blood vessels, see below).
+* VWF binds to other platelet receptors when they are activated, e.g., by [[thrombin]] (i.e., when coagulation has been stimulated).
+
+VWF plays a major role in blood coagulation. Therefore, VWF deficiency or dysfunction (von Willebrand disease) leads to a bleeding tendency, which is most apparent in tissues having high blood flow [[Shear (fluid)|shear]] in narrow vessels. From studies it appears that VWF uncoils under these circumstances, decelerating passing platelets.<ref name=Sadler/> Recent research also suggests that von Willebrand Factor is involved in the [[angiogenesis|formation of blood vessels themselves]], which would explain why some people with von Willebrand disease develop vascular malformations (predominantly in the [[digestive tract]]) that can [[gastrointestinal bleeding|bleed excessively]].<ref>{{cite journal | vauthors = Randi AM, Laffan MA | title = Von Willebrand factor and angiogenesis: basic and applied issues | journal = Journal of Thrombosis and Haemostasis | volume = 15 | issue = 1 | pages = 13–20 | date = January 2017 | pmid = 27778439 | doi = 10.1111/jth.13551 | hdl = 10044/1/42796 | s2cid = 3490036 | doi-access = free | hdl-access = free }}</ref>
+
+===Catabolism===
+The biological breakdown ([[catabolism]]) of VWF is largely mediated by the enzyme [[ADAMTS13]] (acronym of "''a'' ''d''isintegrin-like ''a''nd ''m''etalloprotease with ''t''hrombo''s''pondin type 1 motif no. ''13''"). It is a [[metalloproteinase]] that [[proteolysis|cleaves]] VWF between [[tyrosine]] at position 842 and [[methionine]] at position 843 (or 1605–1606 of the gene) in the A2 domain. This breaks down the multimers into smaller units, which are degraded by other [[peptidase]]s.<ref>{{cite journal | vauthors = Levy GG, Motto DG, Ginsburg D | title = ADAMTS13 turns 3 | journal = Blood | volume = 106 | issue = 1 | pages = 11–17 | date = July 2005 | pmid = 15774620 | doi = 10.1182/blood-2004-10-4097 | s2cid = 25645477 | doi-access = free }}</ref>
+
+The half-life of vWF in human plasma is around 16 hours; glycosylation variation on vWF molecules from different individuals result in a larger range of 4.2 to 26 hours. Liver cells as well as [[macrophage]]s take up vWF for clearance via [[Asialoglycoprotein receptor|ASGPRs]] and [[LRP1]]. [[SIGLEC5]] and [[CLEC4M]] also recognize vWF.<ref name=pmid25712991/>
+
+== Role in disease ==
+{{main article|von Willebrand disease}}
+
+[[Genetic disorder|Hereditary]] or acquired defects of VWF lead to [[von Willebrand disease]] (vWD), a [[bleeding diathesis]] of the skin and mucous membranes, causing [[nosebleed]]s, [[menorrhagia]], and [[gastrointestinal bleed]]ing. The point at which the [[mutation]] occurs determines the severity of the bleeding diathesis. There are three types (I, II and III), and type II is further divided in several subtypes. Treatment depends on the nature of the abnormality and the severity of the symptoms.<ref>{{cite journal | vauthors = Sadler JE, Budde U, Eikenboom JC, Favaloro EJ, Hill FG, Holmberg L, Ingerslev J, Lee CA, Lillicrap D, Mannucci PM, Mazurier C, Meyer D, Nichols WL, Nishino M, Peake IR, Rodeghiero F, Schneppenheim R, Ruggeri ZM, Srivastava A, Montgomery RR, Federici AB | display-authors = 6 | title = Update on the pathophysiology and classification of von Willebrand disease: a report of the Subcommittee on von Willebrand Factor | journal = Journal of Thrombosis and Haemostasis | volume = 4 | issue = 10 | pages = 2103–2114 | date = October 2006 | pmid = 16889557 | doi = 10.1111/j.1538-7836.2006.02146.x | s2cid = 23875096 | doi-access =  }}</ref> Most cases of vWD are hereditary, but abnormalities of VWF may be acquired; [[aortic valve stenosis]], for instance, has been linked to vWD type IIA, causing [[gastrointestinal bleeding]] - an association known as [[Heyde's syndrome]].<ref>{{cite journal | vauthors = Vincentelli A, Susen S, Le Tourneau T, Six I, Fabre O, Juthier F, Bauters A, Decoene C, Goudemand J, Prat A, Jude B | display-authors = 6 | title = Acquired von Willebrand syndrome in aortic stenosis | journal = The New England Journal of Medicine | volume = 349 | issue = 4 | pages = 343–349 | date = July 2003 | pmid = 12878741 | doi = 10.1056/NEJMoa022831 | doi-access = free }}</ref>
+
+In [[thrombotic thrombocytopenic purpura]] (TTP) and [[hemolytic–uremic syndrome]] (HUS), [[ADAMTS13]] either is deficient or has been inhibited by [[antibody|antibodies]] directed at the enzyme. This leads to decreased breakdown of the ultra-large multimers of VWF and [[microangiopathic hemolytic anemia]] with deposition of fibrin and platelets in small vessels, and capillary necrosis. In TTP, the organ most obviously affected is the brain; in HUS, the kidney.<ref>{{cite journal | vauthors = Moake JL | title = von Willebrand factor, ADAMTS-13, and thrombotic thrombocytopenic purpura | journal = Seminars in Hematology | volume = 41 | issue = 1 | pages = 4–14 | date = January 2004 | pmid = 14727254 | doi = 10.1053/j.seminhematol.2003.10.003 }}</ref>
+
+Higher levels of VWF are more common among people that have had [[ischemic stroke]] (from blood-clotting) for the first time.<ref>{{cite journal | vauthors = Denorme F, De Meyer SF | title = The VWF-GPIb axis in ischaemic stroke: lessons from animal models | journal = Thrombosis and Haemostasis | volume = 116 | issue = 4 | pages = 597–604 | date = September 2016 | pmid = 27029413 | doi = 10.1160/TH16-01-0036 | s2cid = 4964177 }}</ref> Occurrence is not affected by ADAMTS13, and the only significant genetic factor is the person's [[Blood type|blood]] group. High plasma VWF levels were found to be an independent predictor of major bleeding in anticoagulated [[atrial fibrillation]] patients.<ref>{{cite journal | vauthors = Roldán V, Marín F, Muiña B, Torregrosa JM, Hernández-Romero D, Valdés M, Vicente V, Lip GY | display-authors = 6 | title = Plasma von Willebrand factor levels are an independent risk factor for adverse events including mortality and major bleeding in anticoagulated atrial fibrillation patients | journal = Journal of the American College of Cardiology | volume = 57 | issue = 25 | pages = 2496–2504 | date = June 2011 | pmid = 21497043 | doi = 10.1016/j.jacc.2010.12.033 | doi-access = free }}</ref>
+
+== History ==
+{{See also|Erik Adolf von Willebrand#Von Willebrand disease}}
+VWF is named after [[Erik Adolf von Willebrand]], a Finnish physician who in 1926 first described a hereditary bleeding disorder in families from [[Åland]]. Although von Willebrand did not identify the definite cause, he distinguished von Willebrand disease (vWD) from [[hemophilia]] and other forms of [[bleeding diathesis]].<ref>{{cite journal| vauthors = von Willebrand EA | title = Hereditär pseudohemofili | trans-title = Hereditary pseudo haemophilia | language = sv | journal = Fin Läkaresällsk Handl | year = 1926 | volume = 68 | pages = 87–112}} Reproduced in {{cite journal | vauthors = Von Willebrand EA | title = Hereditary pseudohaemophilia | journal = Haemophilia | volume = 5 | issue = 3 | pages = 223–31; discussion 222 | date = May 1999 | pmid = 10444294 | doi = 10.1046/j.1365-2516.1999.00302.x | s2cid = 221750622 }}</ref>
+
+In the 1950s, vWD was shown to be caused by a plasma factor deficiency (instead of being caused by platelet disorders), and, in the 1970s, the VWF protein was purified.<ref name=Sadler/>
+[[Harvey J. Weiss]]<ref name="PMID-4127287">{{cite journal | vauthors = Weiss HJ, Hoyer IW | title = Von Willebrand factor: dissociation from antihemophilic factor procoagulant activity | journal = Science | volume = 182 | issue = 4117 | pages = 1149–1151 | date = December 1973 | pmid = 4127287 | doi = 10.1126/science.182.4117.1149 | s2cid = 41340436 | bibcode = 1973Sci...182.1149W }}</ref> and coworkers developed a quantitative assay for VWF function that remains a mainstay of laboratory
+evaluation for VWD to this day.<ref name="PMID-4201262">{{cite journal | vauthors = Weiss HJ, Rogers J, Brand H | title = Defective ristocetin-induced platelet aggregation in von Willebrand's disease and its correction by factor VIII | journal = The Journal of Clinical Investigation | volume = 52 | issue = 11 | pages = 2697–2707 | date = November 1973 | pmid = 4201262 | pmc = 302536 | doi = 10.1172/JCI107464 }}</ref>
+
+== Interactions ==
+
+Von Willebrand Factor has been shown to [[Protein-protein interaction|interact]] with [[Collagen, type I, alpha 1]].<ref name="pmid3490481">{{cite journal | vauthors = Pareti FI, Fujimura Y, Dent JA, Holland LZ, Zimmerman TS, Ruggeri ZM | title = Isolation and characterization of a collagen binding domain in human von Willebrand factor | journal = The Journal of Biological Chemistry | volume = 261 | issue = 32 | pages = 15310–15315 | date = November 1986 | doi = 10.1016/S0021-9258(18)66869-3 | pmid = 3490481 | doi-access = free }}</ref>
+
+Recently, It has been reported that the cooperation and interactions within the von Willebrand Factors enhances the adsorption probability in the primary haemostasis. Such cooperation is proven by calculating the adsorption probability of flowing VWF once it crosses another adsorbed one. Such cooperation is held within a wide range of shear rates.<ref>{{cite journal | vauthors = Heidari M, Mehrbod M, Ejtehadi MR, Mofrad MR | title = Cooperation within von Willebrand factors enhances adsorption mechanism | journal = Journal of the Royal Society, Interface | volume = 12 | issue = 109 | pages = 20150334 | date = August 2015 | pmid = 26179989 | pmc = 4535404 | doi = 10.1098/rsif.2015.0334 }}</ref>
+
+== See also ==
+* [[von Willebrand disease]]
+* [[Bernard–Soulier syndrome]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=von-willebrand GeneReviews/NCBI/NIH/UW entry on von Willebrand Factor Deficiency. Includes: Type 1 von Willebrand Disease, Type 2A von Willebrand Disease, Type 2B von Willebrand Disease, Type 2M von Willebrand Disease, Type 2N von Willebrand Disease, Type 3 von Willebrand Disease]
+* {{PDBe-KB2|P04275|von Willebrand factor}}
+
+{{Coagulation}}
+
+{{PDB_Gallery|geneid=7450}}
+
+{{DEFAULTSORT:Von Willebrand Factor}}
+[[Category:Blood proteins]]
+[[Category:Coagulation system]]
+[[Category:Glycoproteins]]

@@ -1,0 +1,1 @@
+#redirect [[Sertoli cell tumour]]

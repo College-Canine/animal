@@ -1,0 +1,1 @@
+#REDIRECT [[Boston Terrier]] {{R from other capitalisation}}

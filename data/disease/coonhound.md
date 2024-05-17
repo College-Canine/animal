@@ -1,0 +1,49 @@
+{{short description|Type of scenthound}}
+{{Distinguish|raccoon dog|text=[[raccoon dog]], a wild canid species similar to a fox}}
+[[File:A female redbone-coonhound-1.jpg|thumb|A female [[Redbone Coonhound]]]]
+A '''coonhound''', colloquially a '''coon dog''', is a [[Dog type|type]] of [[Scent hound|scenthound]], a member of the [[hound]] group. They are an American type of [[hunting dog]] developed for the [[coon hunting|hunting of raccoons]] and also for feral pigs, bobcats, cougars, and bears. There are six distinct breeds of coonhound.
+
+==History==
+In the [[Colonial America|colonial period]], [[hound]]s were imported into the United States for the popular sport of [[fox hunting]]. Various breeds of [[foxhound]]s and other hunting hounds were imported from England, [[Ireland]], and France.<ref>{{cite book|url=https://books.google.com/books?id=w4Z1CAAAQBAJ&pg=PA182|title=The New Complete Dog Book: Official Breed Standards and All-New Profiles for 200 Breeds- Now in Full-Color|first=The American Kennel|last=Club|date=11 November 2014|publisher=i5 Publishing|isbn=9781621870913|access-date=11 December 2017|via=Google Books}}</ref>
+
+Foxhounds were found to be inadequate for hunting American animals that did not hide near the ground, but instead climbed trees, such as [[raccoon]]s, [[opossum]]s, [[bobcat]]s, and even larger prey like [[cougar]]s and [[bear]]s.<ref name="AKC">{{cite book|url=https://books.google.com/books?id=w4Z1CAAAQBAJ&q=Coonhound+bear+and+cougar&pg=PA42|title=The New Complete Dog Book: Official Breed Standards and All-New Profiles for 200 Breeds- Now in Full-Color|first=The American Kennel|last=Club|date=11 November 2014|publisher=i5 Publishing|isbn=9781621870913|via=Google Books}}</ref> The dogs were often confused or unable to hold the scent when this occurred, and would mill about. 
+This led to the development of [[treeing]] hounds by hunters and dog breeders. Foundation dogs were chosen for a keen sense of smell, the ability to track an animal independent of human commands and, most importantly, to follow an animal both on the ground and when it took to a tree.<ref name="AKC" /> [[Bloodhound]]s specifically were added to many coonhound lines to enhance the ability to track. 
+
+Coonhounds can hunt individually or as a pack. Often, hunters do not chase their quarry along with the hounds, unlike organized foxhunting, but wait and listen to the distinctive baying to determine if the prey has been treed.<ref>{{cite book|url=https://books.google.com/books?id=YZfkcCtOUHwC&pg=PA107|title=Hunting Arkansas: The Sportsman's Guide to Natural State Game|first=Keith B.|last=Sutton|date=11 December 2017|publisher=University of Arkansas Press|isbn=9781557287199|access-date=11 December 2017|via=Google Books}}</ref> Coonhounds are excellent at hunting all manner of prey if trained properly.<ref>{{cite news|title=American English Coonhound Breed Information|url=http://dogsaholic.com/breeds/profiles/american-english-coonhound.html|website=Dogsaholic.com|access-date=12 December 2017}}</ref>[[File:I tree.jpg|thumb|Coonhounds were bred for [[treeing]] behavior, as exhibited by this Redbone Coonhound.]]
+
+===Memorial===
+Established in 1937, the [[Key Underwood Coon Dog Memorial Graveyard]] is located in [[Colbert County, Alabama]]. It is used specifically for the burial of certified coonhounds.<ref name=coondogcem>{{cite web|url=http://www.coondogcemetery.com|title=Key Underwood Coon Dog Memorial Graveyard - Cemetery|website=Coondogcemetery.com|access-date=12 December 2017}}</ref><ref name="hsvt140819">{{cite news |first=Kelly |last=Kazek |newspaper=[[The Huntsville Times]] |location=[[Huntsville, AL]] |title=Legendary Coon Dog Cemetery to once again host Labor Day celebration with live music, crafts, barbecue |url=http://www.al.com/living/index.ssf/2014/08/legendary_coon_dog_cemetery_to.html |date=August 19, 2014 |access-date=August 20, 2014}}</ref>
+
+==Breeds==
+There are six breeds of coonhound, all of which were first recognized by the [[United Kennel Club]]:<ref>{{cite book|url=https://books.google.com/books?id=bOapDdbRJ_QC&pg=PA83|title=Basset Hounds|first=Joe|last=Stahlkuppe|date=11 December 1997|publisher=Barron's Educational Series|isbn=9780812097375|access-date=11 December 2017|via=Google Books}}</ref> 
+
+* The first to be officially registered was the '''[[Black and Tan Coonhound]]''' in 1900. 
+* It was followed by the solid red '''[[Redbone Coonhound]]''' in 1902.<ref>{{cite web|url=https://www.ukcdogs.com/redbone-coonhound|title=Breed Standards : Redbone Coonhound - United Kennel Club (UKC)|website=Ukcdogs.com|access-date=11 December 2017}}</ref> 
+* The third is the '''[[English Coonhound]]''', recognized by the UKC in 1905. The English has the widest color variation of the coonhound breeds, coming in redtick, bluetick, and tricolor patterns. 
+* The '''[[Bluetick Coonhound]]''' and tricolored '''[[Treeing Walker Coonhound]]''' were originally considered varieties of the English, but were split off and recognized as different breeds by 1946 and 1945, respectively.<ref>{{cite web|url=https://www.ukcdogs.com/enlgish-coonhound|title=Breed Standards : English Coonhound - United Kennel Club (UKC)|website=Ukcdogs.com|access-date=11 December 2017}}</ref> 
+* The '''[[Plott Hound]]''', a dark [[brindle]] in color, was the last to be recognized, in 1946. It is the only coonhound that does not descend from foxhounds; instead, its ancestry traces back to German boar-hunting dogs.<ref>{{cite web|url=https://www.ukcdogs.com/plott-hound|title=Breed Standards : Plott Hound - United Kennel Club (UKC)|website=Ukcdogs.com|access-date=11 December 2017}}</ref> 
+
+The Black and Tan Coonhound was the first to be recognized by the [[American Kennel Club]], in 1946.<ref>{{cite web|url=http://www.akc.org/dog-breeds/black-and-tan-coonhound/|title=Black and Tan Coonhound Dog Breed Information|website=Akc.org|access-date=11 December 2017}}</ref> The other coonhound breeds were not able to be AKC-registered until the 2000s; the Redbone and Bluetick Coonhounds were both recognized in 2009,<ref>{{cite web|url=http://www.akc.org/dog-breeds/bluetick-coonhound/|title=Bluetick Coonhound Dog Breed Information|website=Akc.org|access-date=11 December 2017}}</ref><ref>{{cite web|url=http://www.akc.org/dog-breeds/redbone-coonhound/|title=Redbone Coonhound Dog Breed Information|website=Akc.org|access-date=11 December 2017}}</ref> the English in 2011 (as the American English),<ref>{{cite web|url=http://www.akc.org/dog-breeds/american-english-coonhound/|title=American English Coonhound Dog Breed Information|website=Akc.org|access-date=11 December 2017}}</ref> and the Treeing Walker in 2012.<ref>{{cite web|url=http://www.akc.org/dog-breeds/treeing-walker-coonhound/|title=Treeing Walker Coonhound Dog Breed Information|website=Akc.org|access-date=11 December 2017}}</ref>
+
+In 2008, the UKC recognized the [[American Leopard Hound]] as a scenthound breed. It is used for hunting raccoons, as well as other game animals.<ref>{{cite web|url=https://www.ukcdogs.com/american-leopard-hound-|title=Breed Standards : American Leopard Hound - United Kennel Club (UKC)|website=Ukcdogs.com|access-date=11 December 2017}}</ref>
+
+== Health ==
+As a breed that is often used to hunt raccoons, coonhounds are susceptible to "Coonhound paralysis," or more accurately, acute canine idiopathic polyradiculoneuritis (ACIP). This condition is the often result of a dog coming into contact with a raccoon's saliva, typically through a scratch or bite, though some cases do not involve raccoons at all.<ref>{{Cite web |last=Engel |first=Danielle |date=19 June 2017 |title=Coonhound Paralysis Fortunately Rare |url=https://vetmed.illinois.edu/pet-health-columns/coonhound-paralysis-dogs/ |access-date=2024-02-27 |website=Veterinary Medicine at Illinois |language=en-US}}</ref> Despite the name, any breed of dog can contract the disease, but it is more commonly associated with coonhounds due to their use as raccoon hunting dogs. The disease is compared to [[Guillain–Barré syndrome|Guillain-Barre syndrome]] in humans, resulting in progressive atrophy to leg muscles, starting with the rear legs and moving forward, and in some cases impacting respiratory muscles.<ref>{{Cite journal |last=Holmes |first=Dorothy F. |last2=Schultz |first2=Ronald D. |last3=Cummings |first3=John F. |last4=deLahunta |first4=Alexander |date=August 1979 |title=Experimental coonhound paralysis: Animal model of Guillain‐Barre syndrome |url=https://www.neurology.org/doi/10.1212/WNL.29.8.1186 |journal=Neurology |volume=29 |issue=8 |pages=1186–1186 |doi=10.1212/WNL.29.8.1186 |issn=0028-3878}}</ref>
+
+A study of 90,000 dog's patient records found coonhounds to be predisposed to [[atopy]]/[[allergic dermatitis]] with 8.33% of coonhounds having the condition compared to 1.08% for [[Mongrel|mixed-breeds]].<ref>{{Cite journal |last=Bellumori |first=Thomas P. |last2=Famula |first2=Thomas R. |last3=Bannasch |first3=Danika L. |last4=Belanger |first4=Janelle M. |last5=Oberbauer |first5=Anita M. |date=2013-06-01 |title=Prevalence of inherited disorders among mixed-breed and purebred dogs: 27,254 cases (1995–2010) |url=https://avmajournals.avma.org/view/journals/javma/242/11/javma.242.11.1549.xml |journal=Journal of the American Veterinary Medical Association |language=en |volume=242 |issue=11 |pages=1549–1555 |doi=10.2460/javma.242.11.1549}}</ref>  
+
+==See also==
+* [[Portal:Dogs|Dogs portal]]
+* [[List of dog breeds]]
+* [[The Hunt (The Twilight Zone)]]
+
+==References==
+{{Reflist}}
+
+{{Domestic dog}}
+{{Hounds}}
+{{American dogs}}
+
+[[Category:Dog types]]
+[[Category:Scent hounds]]
+[[Category:Raccoons]]

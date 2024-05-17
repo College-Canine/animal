@@ -1,0 +1,91 @@
+{{Short description|Species of flea}}
+{{Speciesbox|name = Cat flea|image = Кошачья блоха.jpg|image_alt = Female cat flea|image_caption = Female cat flea|status = LC|status_system = IUCN3.1|status_ref = <ref name="IUCN">[http://www.catsg.org/catsgportal/cat-website/catfolk/wilder07.htm European wildcat species account] {{webarchive|url=https://web.archive.org/web/20130308095633/http://www.catsg.org/catsgportal/cat-website/catfolk/wilder07.htm|date=2013-03-08 }} IUCN Species Survival Commission. Cat Specialist Group</ref>|genus = Ctenocephalides|species = felis|authority = ([[Peter Friedrich Bouché|Bouché]], 1835)|synonyms = ''Pulex felis'' <small>Bouché, 1835</small>|synonyms_ref =|subdivision_ranks = Subspecies|subdivision_ref = <ref>{{cite web|author1=<!-- not stated -->|title=''Ctenocephalides''|url=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=7514&lvl=3&keep=1&srchmode=1&unlock|website=NCBI taxonomy|publisher=National Center for Biotechnology Information|access-date=16 January 2019|location=Bethesda, MD|language=en}}</ref>|subdivision =
+* ''[[Ctenocephalides felis damarensis]]'' <small></small>
+* ''[[Ctenocephalides felis felis]]'' <small></small>
+* ''[[Ctenocephalides felis strongylus]]'' <small></small>
+}}
+
+The '''cat flea''' (scientific name '''''Ctenocephalides felis''''') is an extremely common parasitic insect whose principal host is the [[cat|domestic cat]], although a high proportion of the fleas found on [[dog]]s also belong to this species.<ref name="Paterson2009">{{cite book|author=Sue Paterson|title=Manual of Skin Diseases of the Dog and Cat|url=https://books.google.com/books?id=sLTFcR-PgSwC&pg=PA122|date=16 March 2009|publisher=John Wiley & Sons|isbn=978-1-4443-0932-4|page=122}}</ref> This is despite the widespread existence of a separate and well-established "dog" flea, ''[[Ctenocephalides canis]]''. Cat fleas originated in Africa<ref>{{Cite journal|last1=Lawrence|first1=Andrea L.|last2=Webb|first2=Cameron E.|last3=Clark|first3=Nicholas J.|last4=Halajian|first4=Ali|last5=Mihalca|first5=Andrei D.|last6=Miret|first6=Jorge|last7=D'Amico|first7=Gianluca|last8=Brown|first8=Graeme|last9=Kumsa|first9=Bersissa|last10=Modrý|first10=David|last11=Šlapeta|first11=Jan|date=April 2019|title=Out-of-Africa, human-mediated dispersal of the common cat flea, Ctenocephalides felis: The hitchhiker's guide to world domination|url=http://dx.doi.org/10.1016/j.ijpara.2019.01.001|journal=International Journal for Parasitology|volume=49|issue=5|pages=321–336|doi=10.1016/j.ijpara.2019.01.001|pmid=30858050|issn=0020-7519|hdl=10072/392897|s2cid=75138157 |hdl-access=free}}</ref> but can now be found globally.<ref name=":0">{{Cite journal|last=Rust|first=Michael|date=2016-03-17|title=Insecticide Resistance in Fleas|journal=Insects|language=en|volume=7|issue=1|pages=10|doi=10.3390/insects7010010|issn=2075-4450|pmc=4808790|pmid=26999217|doi-access=free}}</ref> As humans began domesticating cats, the prevalence of the cat flea increased and it spread throughout the world.
+
+Of the cat fleas, ''Ctenocephalides felis felis'' is the most common, although other subspecies do exist, including ''C. felis strongylus, C. orientis,'' and ''C. damarensis.'' <ref name=":0" /> Over 90% of fleas found on both dogs and cats are ''Ctenocephalides felis felis.'' <ref name="Paterson2009" />
+
+== Overview ==
+[[File:SIPH Pulicidae Ctenocephalides felis felis.png|thumb|''Ctenocephalides felis felis'']]
+The cat flea belongs to the insect order [[Siphonaptera]] which in its adult stage is an obligatory [[hematophage]]. Adults of both sexes range from 1–2&nbsp;mm long and are usually a reddish-brown colour, although the abdomens of gravid females often swell with eggs causing them to appear banded in cream and dark brown. Like all fleas, the cat flea is compressed laterally allowing it to slip between the sometimes dense hairs of its host just above the top layer of the skin, resulting in an extremely thin insect that may be difficult to observe even if the host's coat is pure white.<ref name=Connecticut>{{cite web|url=http://www.ct.gov/CAES/cwp/view.asp?a=2815&q=376710|publisher=Connecticut Agricultural Experiment Station|title=Cat flea|access-date=2008-10-17}}</ref> Cat fleas are wingless.<ref name="Paterson2009" />
+
+The cat flea affects both the cat and the dog worldwide.<ref>{{cite journal|last1=Rust|first1=MK|last2=Dryden|first2=MW|title=The biology, ecology, and management of the cat flea|journal=Annual Review of Entomology|date=1997|volume=42|pages=451–73|doi=10.1146/annurev.ento.42.1.451|pmid=9017899}}</ref> The cat flea can also maintain its [[Biological life cycle|life cycle]] on other [[carnivore]]s and on [[omnivore]]s, but these are only chosen when more acceptable hosts become unavailable.<ref name=Connecticut/> Adult cat fleas do not willingly leave their hosts, and inter-animal transfer of ''adult'' fleas is rare except in animals that share sleeping quarters. A flea which becomes separated from its host will often die within hours from starvation.<ref name="JacobsFox2015">{{cite book|author1=Dennis Jacobs|author2=Mark Fox|author3=Lynda Gibbons|author4=Carlos Hermosilla|title=Principles of Veterinary Parasitology|url=https://books.google.com/books?id=TWazCgAAQBAJ&pg=PA34|date=5 October 2015|publisher=Wiley|isbn=978-1-118-97744-6|page=34}}</ref> It has been found that mortality differs between male and female cat fleas when separated from the host. It was found that within two days all male cat fleas were dead, while females became inactive after three days.<ref name=":0" />
+
+In addition to their role as pests in dogs and cats, cat fleas are responsible for a number of diseases. They can cause flea bite [[dermatitis]] and the transmission of [[dog tapeworm]]<ref name=":3">{{Cite journal|last1=Dryden|first1=Michael W.|last2=Rust|first2=Michael K.|date=March 1994|title=The cat flea: biology, ecology and control|url=http://dx.doi.org/10.1016/0304-4017(94)90031-0|journal=Veterinary Parasitology|volume=52|issue=1–2|pages=1–19|doi=10.1016/0304-4017(94)90031-0|pmid=8030176|issn=0304-4017}}</ref> to name a few.
+
+== Life cycle ==
+Cat fleas are [[Holometabolism|holometabolous]] (undergo complete [[metamorphosis]]) insects and therefore go through four [[Biological life cycle|life cycle]] stages of [[Egg (biology)|egg]], [[larva]], [[pupa]], and [[imago]] (adult). Adult fleas must feed on blood before they can become capable of reproduction.<ref name=Florida>[http://edis.ifas.ufl.edu/IG087 Fleas]. P.G. Koehler and F. M. Oi. Printed July 1993, revised February 2003. Provided by the [[University of Florida]]</ref>
+
+Flea populations are distributed with about 50% eggs, 35% larvae, 10% pupae, and 5% adults.<ref name=Crosby>[http://vetmedicine.about.com/od/parasites/f/FAQ_fleacycle.htm] {{Webarchive|url=https://web.archive.org/web/20050919195615/http://vetmedicine.about.com/od/parasites/f/FAQ_fleacycle.htm |date=2005-09-19 }} Crosby, J.T. What is the Life Cycle of the Flea. Accessed 6 August 2012</ref> Cat fleas may live up to two years.
+
+=== Eggs ===
+[[File:Ctenocephalides felis oeufs.JPG|thumb|left|''C. felis'' eggs]]An adult gravid female flea that has consumed a full blood meal will begin to produce between 20 and 30 microscopic (0.5&nbsp;mm) non-adhesive white ovoid eggs per day, laying them individually and continually at a rate of about one per hour until she dies (under ideal conditions it might be possible for her to produce between 2,000 and 8,000 eggs in her lifetime, though most only manage to produce around 100 before being consumed by their host during grooming activity<ref name="JacobsFox2015"/>). The eggs are dispersed freely into the environment. Within two to seven weeks a certain proportion will then hatch into [[larva]]e.<ref name="Paterson2009"/> Hatching is at its highest when temperature is 27&nbsp;°C and humidity is greater than 50%.<ref name=":3" />
+
+Given that eggs are non-adhesive, they do not stick to the host (70% are lost from the host in the first 8 hours).<ref name=":3" />
+
+=== Larvae ===
+[[Image:Flea Larva.jpg|thumb|250px|Flea [[larva]] showing red ingested blood; head is positioned on lower side of image]]
+The larva of the cat flea has a grub-like appearance and is ~2&nbsp;mm in length. The larvae are negatively [[phototaxis|phototaxic]]/[[phototropic]], avoiding light and hiding in the substrate around them. The larvae require adequate ambient moisture and warmth, and will die at temperatures near freezing.<ref name="JacobsFox2015"/> Cat fleas prefer soil moisture content between 1-10%.<ref name=":1" /> While in this developmental stage the larvae will feed on a variety of organic substances, but the most important dietary item for them is the crumbs of dried blood that continually fall like snow out of the haircoat of the host after it has been excreted by the adult fleas as fecal material. Thus, the adult flea population continually feeds the larval population in the animal's environment. Adult feces is an important part of the larval diet. When reared in the lab, flea larvae provided with adult feces have a higher survival rate (67%) than those provided diets of dried bovine blood (39%) or meat flour (55%).<ref>{{Cite journal|last1=Almeida|first1=Gabriela Pereira Salça de|last2=Campos|first2=Diefrey Ribeiro|last3=Avelar|first3=Barbara Rauta de|last4=Silva|first4=Thalita Xavier de Araújo da|last5=Lambert|first5=Monique Morais|last6=Alves|first6=Mariana Silva Revoredo|last7=Correia|first7=Thaís Ribeiro|date=2020|title=Development of Ctenocephalides felis felis (Siphonaptera: Pulicidae) in different substrates for maintenance under laboratory conditions|journal=Revista Brasileira de Parasitologia Veterinária|volume=29|issue=2|pages=e022819|doi=10.1590/s1984-29612020047|pmid=32609247|issn=1984-2961|doi-access=free}}</ref>
+
+=== Pupal stage ===
+[[File:Ctenocephalides felis, nymphe âgée..JPG|thumb|left|A nymph that has had its cocoon removed]]
+Flea larvae metamorphose through four stages before spinning a [[Pupa#Cocoon|cocoon]] and entering the [[pupa|pupal stage]]. The cocoon is adhesive, and quickly acquires a coat of camouflage from surrounding dirt and dust. Pupation depends heavily on temperature and moisture, and takes a week or more to complete, though a fully pupated adult can remain inside of its cocoon in a state of semi-dormancy (called the "pupal window") awaiting signs of the presence of a host.<ref name="JacobsFox2015"/><ref name="Fleas">{{cite web|url=http://edis.ifas.ufl.edu/IG087|title=Fleas|publisher=University of Florida|access-date=2009-03-13}}</ref><ref name="Insects and Ticks: Fleas">{{cite web|url=http://www.entm.purdue.edu/publichealth/insects/flea.html|title= Insects and Ticks: Fleas|publisher=Entomology Department at Purdue University|access-date=2008-09-08}}</ref><ref name="vet.ksu.edu">{{cite web|url=http://www.vet.ksu.edu/depts/dmp/personnel/faculty/pdf/dryden/bio_eco_manage_flea.pdf|title=The Biology, Ecology and Management of the Cat Flea|publisher=University of California, Riverside|access-date=2008-09-08|url-status=dead|archive-url=https://web.archive.org/web/20070105064529/http://www.vet.ksu.edu/depts/dmp/personnel/Faculty/pdf/dryden/bio_eco_manage_flea.pdf|archive-date=2007-01-05}}</ref>
+
+=== Adult ===
+Newly emerged fleas use variations in light and shadow along with increases in warmth and [[Carbon dioxide|CO<sub>2</sub>]] to detect the presence of a potential host, and will jump to a new host within seconds of emerging from the cocoon. The new flea begins feeding on host blood within minutes.<ref name="Fleas"/><ref name="Insects and Ticks: Fleas"/><ref name="vet.ksu.edu"/>
+
+== Effects on the hosts ==
+
+A few fleas on adult dogs or cats cause little harm unless the host becomes [[allergic]] to substances in the flea's saliva. There are 15 substances that can cause allergy in flea saliva.<ref name="Paterson2009" /> The disease that results from allergy is called [[flea allergy dermatitis]]. Small animals with large infestations can lose enough bodily fluid to fleas feeding that [[dehydration]] may result. Cat fleas also may be responsible for disease transmission through humans, and have been suspected as transmission agents of [[Plague (disease)|plague]]. Severe flea infestations can result in anemia due to blood loss.{{cn|date=December 2022}}
+
+== Disease transmission ==
+Cat fleas can transmit other [[parasitism|parasites]] and infections to dogs and cats and also to humans. The most prominent of these are ''[[Bartonella]]'', [[murine typhus]], and atopic dermatitis. The [[tapeworm]] ''[[Dipylidium caninum]]'' can be transmitted when an immature flea is swallowed by pets or humans. In addition, cat fleas have been found to carry ''[[Borrelia burgdorferi]]'', the etiologic agent of [[Lyme disease]], but their ability to transmit the disease is unclear.<ref>{{cite journal|date = May 1991|title =Isolation of Borrelia burgdorferi from arthropods collected in Texas.|vauthors=Teltow GJ, Fournier PV, Rawlings JA|journal = Am J Trop Med Hyg|volume = 44|issue = 5|pages = 469–74|doi =10.4269/ajtmh.1991.44.469|pmid=2063950}}</ref> Finally, cat fleas are vectors for ''[[Rickettsia felis]]''.<ref>{{Cite journal|last1=Dryden|first1=Michael W.|last2=Rust|first2=Michael K.|date=March 1994|title=The cat flea: biology, ecology and control|url=https://linkinghub.elsevier.com/retrieve/pii/0304401794900310|journal=Veterinary Parasitology|language=en|volume=52|issue=1–2|pages=1–19|doi=10.1016/0304-4017(94)90031-0|pmid=8030176}}</ref>
+
+== Prevention and treatment of flea-borne disease ==
+{{Main|Flea treatments}}
+
+Since more than three-quarters of a flea's life is spent somewhere other than on the host animal, it is not adequate to treat only the host; it is important also to treat the host's environment. Thorough vacuuming, washing linens in hot water, and treating all hosts in the immediate environment (the entire household, for example) is essential for successful eradication. These steps should be performed on a regular basis<ref>{{Cite web|url=https://insects.tamu.edu/extension/publications/epubs/e-433.cfm|archive-url=https://web.archive.org/web/20141226055805/https://insects.tamu.edu/extension/publications/epubs/e-433.cfm|url-status=dead|archive-date=2014-12-26|title=Discover Entomology at Texas A&M University - Extension Publication E-433: Controlling Fleas}}</ref> as the flea life cycle is complex. Treatment should be implemented every five to ten days.<ref name=":4">{{Cite web|last=CDC|date=2020-08-13|title=Getting rid of fleas {{!}} CDC|url=https://www.cdc.gov/fleas/getting_rid.html|access-date=2021-06-01|website=Centers for Disease Control and Prevention|language=en-us}}</ref> Pet safe insecticides may also be an option in treating a pet with fleas, and soap is sufficient as an insecticide for adult fleas.<ref name=":4" />
+
+== Insecticide resistance ==
+{{Main|Insecticide resistance}}
+
+Cat fleas have developed insecticide resistance to many of the common insecticides used to control them environmentally, including [[carbamate]]s, [[organophosphate]]s, and [[pyrethroid]]s.<ref name=":1" /><ref name=":2" /> Additionally, it has been found that larvae are more resistant to certain insecticides than adults. Targets of juvenile hormone may be successful to limit growth in the larval stages. When administering insecticides to pets for flea treatment, it is critically important to finish the full dose to limit the spread of resistance.<ref name=":1">{{Cite journal|last1=Coles|first1=Tad B.|last2=Dryden|first2=Michael W.|date=2014-01-06|title=Insecticide/acaricide resistance in fleas and ticks infesting dogs and cats|url=|journal=Parasites & Vectors|volume=7|issue=1|pages=8|doi=10.1186/1756-3305-7-8|issn=1756-3305|pmc=3891977|pmid=24393426 |doi-access=free }}</ref><ref name=":2">{{Cite journal|last=Rust|first=Michael K.|date=March 2016|title=Insecticide Resistance in Fleas|journal=Insects|language=en|volume=7|issue=1|pages=10|doi=10.3390/insects7010010|pmid=26999217|pmc=4808790|doi-access=free}}</ref>
+
+== Impact of climate change on the cat flea ==
+{{Main|Climate change}}
+
+Cat fleas are generally tolerant to a wide range of environmental conditions.<ref name=":5">{{Cite journal|last1=Crkvencic|first1=Nicole|last2=Šlapeta|first2=Jan|date=2019-03-22|title=Climate change models predict southerly shift of the cat flea (Ctenocephalides felis) distribution in Australia|journal=Parasites & Vectors|volume=12|issue=1|page=137|doi=10.1186/s13071-019-3399-6|pmid=30902110|issn=1756-3305|pmc=6431004 |doi-access=free }}</ref> As the climate warms, however, it is predicted that the tropical haplotype will displace the temperate haplotype. Climate change often drives changes in species range. In Australia, it is predicted that warming temperatures will drive the cat flea distribution south.<ref name=":5" />
+
+== See also ==
+* [[Pulicosis]] (Flea bites)
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Commons category|Ctenocephalides felis}}
+* [http://lancaster.unl.edu/pest/resources/IntegratedFlea.shtml Integrated Flea Control from University of Nebraska-Lincoln Extension in Lancaster County]
+* [http://entomology.ifas.ufl.edu/creatures/urban/occas/catflea.htm cat flea] on the [[University of Florida|UF]] / [[Institute of Food and Agricultural Sciences|IFAS]] Featured Creatures Web site
+* [https://web.archive.org/web/20101228200149/http://www.metapathogen.com/flea/cat-flea/ About Ctenocephalides felis (cat flea): taxonomy, life cycle, transmitted diseases, eradication at MetaPathogen]
+
+===Flea treatment===
+* [[Dog flea#Treatments|Dog flea treatments]]
+* [https://www.bbc.co.uk/dna/h2g2/A1112211 Finding and Eliminating Fleas on Your Cat from the BBC]
+* [https://www.fda.gov/ForConsumers/ConsumerUpdates/ucm169831.htm Safe Use of Flea and Tick Products in Pets]
+<br>
+{{Domestic cat}}
+
+{{Taxonbar|from=Q1736901}}
+{{Authority control}}
+
+{{DEFAULTSORT:Cat Flea}}
+[[Category:Pulicidae]]
+[[Category:Parasites of cats]]
+[[Category:Parasites of dogs]]
+[[Category:Veterinary entomology]]
+[[Category:Insect vectors of animal pathogens]]
+[[Category:Insects described in 1835]]

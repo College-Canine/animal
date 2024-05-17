@@ -1,0 +1,1 @@
+#REDIRECT [[Shar Pei#Familial Shar Pei Fever]]

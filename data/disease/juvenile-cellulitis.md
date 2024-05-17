@@ -1,0 +1,20 @@
+[[File:Juvenile Cellulitis.JPG|thumb|Puppy with juvenile cellulitis at 7 weeks old.]]
+'''Juvenile cellulitis''', also known as '''puppy strangles''' or '''juvenile pyoderma''', is an uncommon [[disease]] of [[dog]]s.<ref name="Miller 2013">{{cite book|last1=Miller|first1=William H. Jr.|last2=Griffin|first2=Craig E.|last3=Campbell|first3=Karen L.|title=Muller & Kirk's small animal dermatology|date=2013|publisher=Elsevier|location=St. Louis, Mo.|isbn=9781416000280|pages=708–709|edition=7th|chapter=Chapter 18: Miscellaneous skin diseases. Juvenile cellulitis}}</ref> Symptoms include [[dermatitis]], [[lethargy]], [[Depression (mood)|depression]] and [[lameness]]. When puppies are first presented with what appears to be [[staphylococcal]] [[pyoderma]], juvenile cellulitis, a relatively rare condition, may not be considered.<ref name="Hutchings">{{cite journal|last1=Hutchings|first1=SM|title=Juvenile cellulitis in a puppy|journal=The Canadian Veterinary Journal|date=May 2003|volume=44|issue=5|pages=418–9|pmid=12757135|pmc=340152}}</ref>
+
+== Symptoms ==
+The first symptom is a sudden onset of swelling of the face, which develops within two days into papules and pustules on the lips, nose, and around the eyes. These pustules release a purulent discharge, causing a crust to form on the skin. There is also [[lymphadenopathy]] (swelling of lymph nodes) in the main lymph nodes of the head.<ref>{{cite journal|last1=Park|first1=C|last2=Yoo|first2=JH|last3=Kim|first3=HJ|last4=Kang|first4=BT|last5=Park|first5=HM|title=Combination of cyclosporin A and prednisolone for juvenile cellulitis concurrent with hindlimb paresis in 3 English cocker spaniel puppies.|journal=The Canadian Veterinary Journal|date=November 2010|volume=51|issue=11|pages=1265–8|pmid=21286328|pmc=2957036}}</ref> The feet, body, prepuce or [[perianal]] area may be affected. Pustular otitis externa can occur, with the pinnae (ear flaps) becoming thickened by [[edema]]. Affected areas are painful but not itchy. Approximately half of affected puppies have lethargy and depression. Less common symptoms include [[pyrexia]], anorexia, and joint pain caused by sterile suppurative arthritis.<ref name="Hutchings"/>
+
+== Causes ==
+The cause of juvenile cellulitis is unknown.<ref name="Hutchings"/> Cytologic examination of aspirates of affected [[lymph node]]s, pustules, [[abscess]]es, and joint fluid rarely reveal bacteria, and culture results of intact lesion are always negative for bacterial growth, suggesting a nonbacterial etiology.<ref name="Hutchings"/> As signs resolve following treatment with glucocorticoids, the cause is likely to be an [[immune disorder]].<ref name="Miller 2013" />
+
+== Diagnosis ==
+Puppies are first presented with what appears to be [[staphylococcal]] [[pyoderma]]. Definitive diagnosis requires cytologic and histopathologic evaluations. Cytologic examination of papulopustular lesions of juvenile cellulitis reveals pyogranulomatous inflammation with no microorganisms and carefully performed cultures are negative. Biopsies of early lesions reveal multiple discrete or confluent granulomas and pyogranulomas consisting of clusters of large epithelioid macrophages with variably sized cores of neutrophils. Cytological analysis of joint fluid often reveals sterile suppurative arthritis.<ref name="Hutchings"/>
+
+== Treatment ==
+Large doses of [[glucocorticoid]]s are the treatment of choice, and are administered until the signs have resolved.<ref name="Miller 2013" /> In uncomplicated cases, this can take up to a month.<ref name="Miller 2013" /> If dogs are not treated promptly and with high doses of steroids, severe scarring may occur.<ref name="Miller 2013" /> If there is evidence of secondary bacterial [[infection]], treatment with antibiotics is required.<ref name="Hutchings"/>
+
+== References ==
+<references/>
+
+{{DEFAULTSORT:Juvenile Cellulitis}}
+[[Category:Dog diseases]]

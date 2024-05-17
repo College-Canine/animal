@@ -1,0 +1,31 @@
+[[File:Two_boxer_dogs_(2004).jpg|300px|thumb|Domesticated dogs are among the animals that most often display dietary indiscretion, due to their close contact with humans.]]
+'''Dietary indiscretion''' is the tendency for certain animals to [[Eating|feed]] on unusual items, or undergo drastic changes in feeding behaviour. The unusual items can include non-foodstuffs, such as [[garbage]] or foreign objects, or foodstuffs that are not normally consumed by the animal. The changes in feeding behaviour can include the ingestion of spoiled or raw food, or consuming abnormally large quantities of food. Dietary indiscretion is relatively uncommon in humans, but is especially prevalent in domesticated animals, such as [[dog]]s, as a result of their close contact with their human owners.
+
+== In humans ==
+Dietary indiscretion is relatively uncommon in humans, except for people with certain psychological disorders.
+
+=== Eating disorders ===
+[[File:Testing_Blood_Sugar_Levels.jpg|alt=|thumb|251x251px|In individuals with diabetes, dietary indiscretion refers to eating foods that are not doctor-recommended.]]
+Certain eating disorders, such as [[Binge eating disorder|binge-eating disorder]] and [[bulimia nervosa]], involve compulsions to engage in episodes of binge eating.<ref name=":1">{{Citation|chapter=Feeding and Eating Disorders|date=2013-05-22|series=DSM Library|publisher=American Psychiatric Association|doi=10.1176/appi.books.9780890425596.dsm10|isbn=9780890425558|title=Diagnostic and Statistical Manual of Mental Disorders|url-access=registration|url=https://archive.org/details/diagnosticstatis0005unse}}</ref> According to the [[DSM-5|Diagnostic and Statistical Manual of Mental Disorders]], a binge involves an episode of dietary indiscretion, where an abnormally large amount of food is consumed in a short period, and the individual feels that they do not have control over the amount they are eating.<ref name=":1" /> Dietary indiscretion is also characteristic of another eating disorder known as [[Pica (disorder)|pica]], which is characterized by an appetite for non-nutritive substances, such as paper, cloth, and soil.<ref name=":1" />
+
+=== Diabetes ===
+The phrase "dietary indiscretion" is sometimes used by endocrinologists when discussing patients with [[diabetes mellitus]]. In particular, individuals with [[type 2 diabetes]] should avoid certain dietary items, including [[sugar]]-sweetened beverages, [[Saturated fat|saturated]] and [[trans fat]]s, and [[starch]]es, such as [[white rice]].<ref>{{Cite journal|last=Malik|first=Vasanti S.|last2=Popkin|first2=Barry M.|last3=Bray|first3=George A.|last4=Després|first4=Jean-Pierre|last5=Hu|first5=Frank B.|date=2010-03-23|title=Sugar Sweetened Beverages, Obesity, Type 2 Diabetes and Cardiovascular Disease risk|journal=Circulation|volume=121|issue=11|pages=1356–1364|doi=10.1161/CIRCULATIONAHA.109.876185|issn=0009-7322|pmc=2862465|pmid=20308626}}</ref><ref>{{Cite journal|last=Risérus|first=Ulf|last2=Willett|first2=Walter C.|last3=Hu|first3=Frank B.|date=2010-01-01|title=Dietary fats and prevention of type 2 diabetes|journal=Progress in Lipid Research|volume=48|issue=1|pages=44–51|doi=10.1016/j.plipres.2008.10.002|issn=0163-7827|pmc=2654180|pmid=19032965}}</ref><ref>{{Cite journal|last=Hu|first=Emily A|last2=Pan|first2=An|last3=Malik|first3=Vasanti|last4=Sun|first4=Qi|date=2012-03-15|title=White rice consumption and risk of type 2 diabetes: meta-analysis and systematic review|journal=The BMJ|volume=344|pages=e1454|doi=10.1136/bmj.e1454|issn=0959-8138|pmc=3307808|pmid=22422870}}</ref> When doctors are treating patients with diabetes, dietary indiscretion refers to the patient not following the dietary recommendations, and consuming foods that can potentially exacerbate the effects of their diabetes. For example, in a case study by J.S. Baird of Columbia University, when a patient presents to the hospital with [[diabetic ketoacidosis]], the first step for physicians is to determine whether or not the patient had performed dietary indiscretion, which could be a potential cause of the ketoacidosis.<ref>{{Cite journal|last=Baird|first=John Scott|date=2009-08-05|title=Relapse of diabetic ketoacidosis secondary to insulin pump malfunction diagnosed by capillary blood 3-hydroxybutyrate: a case report|journal=Cases Journal|language=en|volume=2|issue=1|pages=8012|doi=10.4076/1757-1626-2-8012|issn=1757-1626|pmc=2769395|pmid=19918445}}</ref>
+
+== Other animals ==
+Dietary indiscretion frequently occurs in domesticated animals, especially in dogs. Dietary indiscretion involving the consumption of human food by domesticated dogs can be harmful and can result in conditions including acute inflammation of the pancreas ([[pancreatitis]]) and acute [[gastritis]].<ref name=":0">{{Cite book|title=Small Animal Medical Differential Diagnosis: A Book of Lists|last=Thompson|first=Mark|publisher=Elsevier Canada|year=2018|isbn=978-0-323-49830-2|location=Milton, ON|pages=143–187}}</ref> In addition to these conditions, dietary indiscretion can be harmful to animals if non-digestible items, such as bones, are consumed. These items cannot be digested, and as such they often become lodged in the intestinal tract, causing severe, often life-threatening, digestive distress.<ref name=":0" />
+
+If the animal consumes a substance that is contaminated with [[bacteria]] or other [[Toxicity|toxic]] substances, '''garbage toxicosis''', or "garbage gut", can result. Garbage toxicosis involves the bacteria (or other toxic substances) entering the digestive system, resulting in the production of [[toxin]]s by the bloodstream. In dogs, garbage toxicosis results in symptoms similar to those in humans with [[gastroenteritis]].<ref name=":0" /> These can include:
+
+* bloody or watery [[diarrhea]]
+* projectile [[vomiting]]
+* abdominal pain and swelling
+* [[fever]]
+* lack of energy
+* [[dehydration]]
+
+Garbage toxicosis can generally be diagnosed by veterinarians based on symptoms and physical examination. Occasionally, further tests, such as blood and stool samples, [[X-ray]]s, and other diagnostic assays are used to confirm the diagnosis.<ref name=":0" />
+
+== References ==
+{{Reflist}}
+
+[[Category:Eating behaviors]]

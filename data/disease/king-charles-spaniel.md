@@ -1,0 +1,1 @@
+#REDIRECT [[King Charles Spaniel]] {{R from other capitalisation}}

@@ -1,0 +1,1 @@
+#REDIRECT [[Wilson's disease]] {{R from alternative name}}
